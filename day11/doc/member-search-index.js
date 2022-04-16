@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"api","c":"MyMath","l":"div(int, int)","url":"div(int,int)"},{"p":"api","c":"MyMath","l":"MyMath()","url":"%3Cinit%3E()"}]
